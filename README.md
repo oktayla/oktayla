@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **php and javascript**
 
-- 📫 How to reach me **oktay.kopcak@endigitals.com**
+- 📫 How to reach me **oktay.kopcak@ondokuzon.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
